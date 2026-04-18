@@ -26,6 +26,7 @@ printf ("Ha ingresado las notas exitosamente.\n");
 //Menú y bucle do while principal para todo el programa
 
 do {
+        printf ("-----------------------------------MENU-------------------------------\n");
         printf ("Escoja una opcion:\n");
         printf ("1. Promedio de cada estudiante\n");
         printf ("2. Promedio por materia\n");
